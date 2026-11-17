@@ -1,0 +1,16 @@
+# Aconcagua, normal route. Altitudes are approximate. high_m = highest point touched that day (carry or summit).
+day,camp,sleep_m,high_m
+1,Penitentes,2700,
+2,Confluencia,3400,
+3,Confluencia (hike to Plaza Francia),3400,4100
+4,Plaza de Mulas,4300,
+5,Plaza de Mulas (rest),4300,
+6,Plaza de Mulas (carry to Canada),4300,5050
+7,Plaza de Mulas (rest),4300,
+8,Camp Canada,5050,
+9,Nido de Condores,5550,
+10,Nido de Condores (carry to Colera),5550,5970
+11,Colera,5970,
+12,Colera (summit),5970,6961
+13,Plaza de Mulas,4300,
+14,Penitentes,2700,
